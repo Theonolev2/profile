@@ -67,7 +67,7 @@ img {
   font-size: 30px;
 }
 
-.btn-moche {
+.btn-lien {
   background-color: #912BBC;
   width: fit-content;
   padding: 8px;
@@ -75,7 +75,7 @@ img {
   margin-bottom: 4px;
 }
 
-.btn-moche:hover {
+.btn-lien:hover {
   box-shadow: 5px 5px 5px grey;
 }
 
